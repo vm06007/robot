@@ -1,0 +1,59 @@
+@media screen and (max-width: 768px) {
+  .GDF-modal_mobile_none {
+    display: none!important;
+  }
+
+  .GDF-text_right {
+    padding-right: 0!important;
+  }
+
+  .GDF-first_slide_manager {
+    display: none!important;
+  }
+
+  .GDF-modal_col_fifth {
+    width: 100%!important;
+  }
+
+  .GDF-text_left {
+    padding-left: 0!important;
+  }
+
+  .GDF-steps_modal {
+    width: calc(100% - 20px)!important;
+    top: 10px!important;
+  }
+
+  .GDF-steps_modal_text {
+    font-size: 14px!important;
+  }
+
+  .GDF-steps_modal_footer_title {
+    font-size: 24px!important;
+  }
+
+  .GDF-steps_modal_h4 {
+    font-size: 34px!important;
+  }
+
+  .GDF-modal_slide {
+    max-width: 100%!important;
+  }
+
+  .GDF-modal_slide_three {
+    display: none!important;
+  }
+
+  .GDF-list {
+    display: none!important;
+  }
+
+  .GDF-steps_title {
+    line-height: 50px!important;
+    font-size: 41px!important;
+  }
+
+  .GDF-steps_content_wrapper {
+    padding-top: 50px!important;
+  }
+}
