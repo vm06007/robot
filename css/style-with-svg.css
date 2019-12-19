@@ -444,6 +444,13 @@
   background-position: right 30px!important;
 }
 
+.GDF-steps_modal_thirteen {
+  background-image: url("/wp-content/uploads/GovDocFiling-State-Formation-thirteen.svg")!important;
+  background-repeat: no-repeat!important;
+  background-size: 222px 233px!important;
+  background-position: right 30px!important;
+}
+
 .GDF-steps_modal_info {
   max-width: 817px!important;
   width: 75%!important;
@@ -481,6 +488,10 @@
   background-size: 6px 11px!important;
   line-height: 65px!important;
   text-transform: uppercase!important;
+}
+
+.BG {
+    width: 205px !important;
 }
 
 .GDF-steps_back:hover {
